@@ -62,9 +62,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Total weaboo"
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/shiyouninn"
+    # - label: "GitHub"
+      # icon: "fab fa-fw fa-github"
+      # url: "https://github.com/shiyouninn"
 
 defaults:
   # _posts
